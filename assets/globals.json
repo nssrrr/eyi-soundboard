@@ -1,0 +1,72 @@
+{
+    "sounds": [
+        {
+            "display": "Ejren",
+            "file": "ejren"
+        },
+        {
+            "display": "Floppa",
+            "file": "floppa"
+        },
+        {
+            "display": "Floppable",
+            "file": "floppable"
+        },
+        {
+            "display": "Hullo Floppa",
+            "file": "hullo"
+        },
+        {
+            "display": "i-",
+            "file": "i-"
+        },
+        {
+            "display": "Long Ear Floppa",
+            "file": "long-ear"
+        },
+        {
+            "display": "Monkeiiii",
+            "file": "monkeii"
+        },
+        {
+            "display": "Noo",
+            "file": "noo"
+        },
+        {
+            "display": "Nutella",
+            "file": "nutella"
+        },
+        {
+            "display": "Goofy",
+            "file": "goofy"
+        },
+        {
+            "display": "Turuduruduru",
+            "file": "turudu"
+        },
+        {
+            "display": "Very Very Big Floppa",
+            "file": "very-big"
+        },
+        {
+            "display": "Wehhrrr jim",
+            "file": "wehr-jim"
+        },
+        {
+            "display": "Wehhrrr",
+            "file": "wehr"
+        },
+        {
+            "display": "What The Floppa",
+            "file": "what-the-floppa"
+        },
+        {
+            "display": "Yamout",
+            "file": "yamout"
+        },
+        {
+            "display": "???",
+            "file": "uhh"
+        }
+    ]
+}
